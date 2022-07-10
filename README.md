@@ -7,7 +7,7 @@
 <h1>python-dark-theme</h1>
 <a href="https://instagram.com/mzo0z"> insta </a>
 <h1></h1>
-<a href="https://discord.gg/7gzWBSCbY6"> discord </a>
+<a href="https://discord.gg/3psKD4pH4G"> discord </a>
 <h1></h1>
 <a href="https://marketplace.visualstudio.com/items?itemName=mzo0z.mzo0z#review-details"> theme </a>
 </body>
